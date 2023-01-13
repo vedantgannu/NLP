@@ -1,0 +1,23 @@
+Image Captioning Using a Conditioned RNN Generator
+
+Step 1:  You will train a fairly large RNN model for this assignment. If you don't have access to a GPU, if you haven't done so for homework 4, please follow the cloud setup instructions on https://github.com/ma08/nlp_summer22_hw4/blob/main/cloud_setup.md
+or alternatively https://courseworks2.columbia.edu/courses/154905/pages/gcp-setup-notes
+
+Step 2: Clone the github repository for homework 5 (which contains a single .ipynb file).
+
+$ git clone https://github.com/ma08/4705-caption-generator.git
+
+Step 3: Run Jupyter notebook in the repository, as described in the cloud setup instructions above. Then open the Jupyter notebook and follow the instructions.
+
+Step 4 *SUBMISSION INSTRUCTIONS*: 
+When you are done with the homework, make sure that you can 
+see the output of every cell. The reason we need you to 
+run all cells in the notebook before you share is that 
+so we can see the output exactly as you saw it. 
+Neural models tend to get different outputs when 
+the models are retrained. Just in case, we want 
+to see the outcome as you saw it before we decide 
+whether or not we want to rerun some of your notebook cells. 
+Then download the notebook and upload it to Courseworks. 
+You must also upload a PDF version of your notebook 
+(which you can create from within Jupyter using Print -> Save as PDF).
